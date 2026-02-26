@@ -1,0 +1,41 @@
+# LeetCode 30 Problem List (ML Engineer Focused)
+
+# Array
+1. #1 Two Sum
+2. #121 Best Time to Buy and Sell Stock
+3. #53 Maximum Subarray
+4. #217 Contains Duplicate
+5. #238 Product of Array Except Self
+6. #152 Maximum Product Subarray
+7. #153 Find Minimum in Rotated Sorted Array
+8. #33 Search in Rotated Sorted Array
+9. #283 Move Zeroes
+10. #88 Merge Sorted Array
+
+# String
+11. #125 Valid Palindrome
+12. #242 Valid Anagram
+13. #3 Longest Substring Without Repeating Characters
+14. #5 Longest Palindromic Substring
+15. #49 Group Anagrams
+16. #8 String to Integer (atoi)
+
+# HashMap / Set
+17. #202 Happy Number
+18. #349 Intersection of Two Arrays
+19. #560 Subarray Sum Equals K
+20. #347 Top K Frequent Elements
+21. #128 Longest Consecutive Sequence
+
+# Two Pointer / Sliding Window
+22. #11 Container With Most Water
+23. #15 3Sum
+24. #424 Longest Repeating Character Replacement
+25. #76 Minimum Window Substring
+26. #239 Sliding Window Maximum
+
+# Binary Search
+27. #704 Binary Search
+28. #35 Search Insert Position
+29. #162 Find Peak Element
+30. #875 Koko Eating Bananas
