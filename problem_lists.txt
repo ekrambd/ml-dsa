@@ -2,20 +2,26 @@
 
 # Array
 1. #1 Two Sum
+   - Done
 2. #121 Best Time to Buy and Sell Stock
+   - Done
 3. #53 Maximum Subarray
 4. #217 Contains Duplicate
+   - Done
 5. #238 Product of Array Except Self
 6. #152 Maximum Product Subarray
 7. #153 Find Minimum in Rotated Sorted Array
 8. #33 Search in Rotated Sorted Array
 9. #283 Move Zeroes
+    - Done
 10. #88 Merge Sorted Array
+    - Done
 
 # String
 11. #125 Valid Palindrome
 12. #242 Valid Anagram
 13. #3 Longest Substring Without Repeating Characters
+    - Done
 14. #5 Longest Palindromic Substring
 15. #49 Group Anagrams
 16. #8 String to Integer (atoi)
@@ -37,5 +43,6 @@
 # Binary Search
 27. #704 Binary Search
 28. #35 Search Insert Position
+   - Done
 29. #162 Find Peak Element
 30. #875 Koko Eating Bananas
