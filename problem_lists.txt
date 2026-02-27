@@ -6,12 +6,15 @@
 2. #121 Best Time to Buy and Sell Stock
    - Done
 3. #53 Maximum Subarray
+   - Done
 4. #217 Contains Duplicate
    - Done
 5. #238 Product of Array Except Self
 6. #152 Maximum Product Subarray
 7. #153 Find Minimum in Rotated Sorted Array
+ - Done
 8. #33 Search in Rotated Sorted Array
+   - Done
 9. #283 Move Zeroes
     - Done
 10. #88 Merge Sorted Array
@@ -29,6 +32,7 @@
 # HashMap / Set
 17. #202 Happy Number
 18. #349 Intersection of Two Arrays
+    - Done
 19. #560 Subarray Sum Equals K
 20. #347 Top K Frequent Elements
 21. #128 Longest Consecutive Sequence
